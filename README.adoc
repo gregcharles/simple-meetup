@@ -46,4 +46,4 @@ In no specific order to
 * my awesome colleagues at https://innoq.com[innoQ] for their feedback on the project and the article
 * https://twitter.com/olivergierke[Oliver Gierke] for feedback on the TDD arcticle as well as on the sources
 
-A new commment
+Another new commment

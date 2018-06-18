@@ -47,3 +47,4 @@ In no specific order to
 * https://twitter.com/olivergierke[Oliver Gierke] for feedback on the TDD arcticle as well as on the sources
 
 Another new commment
+Comment 3
